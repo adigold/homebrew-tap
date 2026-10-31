@@ -1,6 +1,6 @@
 cask "ag-plugfinder" do
-  version "0.9.2"
-  sha256 "60728087e9c594c48497da993eae9e646b988a3ee0ae8381fa89a818a40d0dd0"
+  version "0.9.3"
+  sha256 "2f01b0943e0bd5fa27f0665a9031154c16ead76731742676234bf7ad60c1fef7"
 
   url "https://github.com/adigold/AG-PlugFinder/releases/download/v#{version}/AG-PlugFinder.dmg"
   name "AG PlugFinder"
