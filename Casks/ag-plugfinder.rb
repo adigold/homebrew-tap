@@ -13,7 +13,7 @@ cask "ag-plugfinder" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "AG PlugFinder.app"
 
