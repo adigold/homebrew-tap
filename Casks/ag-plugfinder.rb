@@ -1,8 +1,8 @@
 cask "ag-plugfinder" do
-  version "0.9.73"
-  sha256 "6330e2ac79b2961ece24698e880e48b55eb86b10534cc51e55365fcfa692718f"
+  version "0.9.74"
+  sha256 "309db1305cb835a6bf5cebd6f0df4b57449c92919c7ebc1572180da41f6f6777"
 
-  url "https://github.com/adigold/AG-PlugFinder/releases/download/v#{version}/AG-PlugFinder.dmg"
+  url "https://github.com/adigold/InPlug-releases/releases/download/v#{version}/AG-PlugFinder.dmg"
   name "InPlug"
   desc "Find any plugin by how it looks and add it to Logic Pro in one keystroke"
   homepage "https://github.com/adigold/AG-PlugFinder"
