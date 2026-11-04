@@ -1,6 +1,6 @@
 cask "ag-plugfinder" do
-  version "1.0.14"
-  sha256 "520ce2997b288793b0133e4c689b7b093f597173bddbd0218e0e7d7fea73f9f8"
+  version "1.0.15"
+  sha256 "9468a091defe2ced472b0128bb5f9acbe19a4533a0953126f956463bebd1473f"
 
   url "https://github.com/adigold/InPlug-releases/releases/download/v#{version}/InPlug.dmg"
   name "InPlug"
