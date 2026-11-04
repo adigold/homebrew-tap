@@ -1,8 +1,8 @@
 # InPlug for Homebrew
 
 ```sh
-brew tap adigold/inplug
-brew trust adigold/inplug
+brew tap inplugapp/inplug
+brew trust inplugapp/inplug
 brew install --cask inplug
 ```
 
