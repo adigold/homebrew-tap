@@ -1,9 +1,9 @@
-# Adi Goldstein's Homebrew tap
+# InPlug for Homebrew
 
 ```sh
-brew tap adigold/tap
-brew trust adigold/tap
-brew install --cask ag-plugfinder
+brew tap adigold/inplug
+brew trust adigold/inplug
+brew install --cask inplug
 ```
 
-[AG PlugFinder](https://github.com/adigold/AG-PlugFinder): find any plugin by how it looks and add it to Logic Pro in one keystroke.
+[InPlug](https://inplug.app): find any plugin in a second and put it on your track in Logic Pro or Ableton Live.
