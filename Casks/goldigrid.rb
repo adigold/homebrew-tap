@@ -1,6 +1,6 @@
 cask "goldigrid" do
-  version "0.2.12"
-  sha256 "d07afa95e8f1aa06af278d43905d2b9b9cdbd3a9b488857d83b787de24857ebf"
+  version "0.2.13"
+  sha256 "ff1b37ab5ce331065bc46924789d60fae85b5d388e31b9f08f7e1a9d0233f710"
 
   url "https://goldigrid.com/download/GoldiGrid-#{version}.dmg"
   name "GoldiGrid"
