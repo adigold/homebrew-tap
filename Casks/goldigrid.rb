@@ -1,8 +1,8 @@
 cask "goldigrid" do
-  version "0.2.1"
-  sha256 "bdd5de2f0503594f50577a7eda3e26fa92c040e06407e068d23bb5cac2f45dc5"
+  version "0.2.3"
+  sha256 "c268275ded77c2afc03a04400163f797e54eb50a80e52df63344e0d8f026cdce"
 
-  url "https://goldigrid.com/download/GoldiGrid-#{version}-macos.zip"
+  url "https://goldigrid.com/download/GoldiGrid-#{version}.dmg"
   name "GoldiGrid"
   desc "Run many coding agents side by side in one window"
   homepage "https://goldigrid.com/"
