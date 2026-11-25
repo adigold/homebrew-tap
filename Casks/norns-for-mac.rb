@@ -12,7 +12,7 @@ cask "norns-for-mac" do
   desc "The monome norns sound computer and its community scripts, as a Mac app"
   homepage "https://norns4mac.netlify.app"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
   depends_on arch: :arm64
 
   app "Norns.app"
