@@ -4,8 +4,8 @@
 # The DMG is served by the website (site/download). Update version and sha256 each release
 # (shasum -a 256 build/release/Norns-<version>.dmg).
 cask "norns-for-mac" do
-  version "0.1.8"
-  sha256 "78a3360ad1a9e131f75df718e79385bbac9c57d036ec900cf1abc3a51d95fba6"
+  version "0.1.9"
+  sha256 "7f1b9ce5b86ea0898c9604628a7b5b8c68f7a1356f6241304a018ecac7ff387b"
 
   url "https://norns4mac.netlify.app/download/Norns-#{version}.dmg"
   name "Norns for Mac"
